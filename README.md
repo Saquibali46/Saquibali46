@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Syed Saquib Ali</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saquibali46&style=for-the-badge&color=blue" />
+</p>
 
-<h3 align="center">Software Engineer | Full Stack Developer | Java & Spring Boot Enthusiast</h3>
+<h3 align="center">Software Engineer • Full Stack Developer • Building Scalable Software Solutions</h3>
 
 <p align="center">
-Building secure, scalable, and user-centric software solutions.
+Building secure, scalable, and maintainable software for real-world applications.
 </p>
 
 ---
@@ -18,29 +21,39 @@ Building secure, scalable, and user-centric software solutions.
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-### Languages
-`Java` `JavaScript` `SQL` `Python` `HTML5` `CSS3`
+### Programming Languages
 
-### Backend
-`Spring Boot` `Spring Security` `REST APIs`
-`JWT` `Hibernate` `JPA` `Maven`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
-`React`
-`Tailwind CSS`
+### Frameworks & Libraries
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Database
-`MySQL`
 
-### Tools
-`Git`
-`GitHub`
-`Postman`
-`VS Code`
-`IntelliJ IDEA`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![REST_API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ---
 
 # 🚀 Featured Projects
@@ -60,7 +73,11 @@ Full Stack Legal Practice Management Platform
 
 ### 📌 Smart Expense Tracker REST API
 
-Java 21 • Spring Boot • REST APIs • Maven
+RESTful backend application featuring authentication, validation,
+CRUD operations, and clean architecture.
+
+Tech Stack:
+Java 21 • Spring Boot • MySQL • Maven • JUnit 5
 
 ---
 
@@ -69,10 +86,29 @@ Java 21 • Spring Boot • REST APIs • Maven
 Responsive Healthcare Web Application
 
 ---
+## 📚 Currently Learning
 
-## 📫 Connect with me
+- System Design
+- Docker
+- Microservices
+- Cloud Fundamentals
+---
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saquibali46&theme=github-dark&hide_border=true" />
+</p>
 
-📧 saquibali516@gmail.com
+---
+## 📫 Let's Connect
 
-💼 LinkedIn
-https://linkedin.com/in/saquibali46
+<p align="center">
+
+📧 <a href="mailto:saquibali516@gmail.com">saquibali516@gmail.com</a> •
+💼 <a href="https://linkedin.com/in/saquibali46">LinkedIn</a> •
+🐙 <a href="https://github.com/Saquibali46">GitHub</a>
+
+</p>
+
+<p align="center">
+Always learning • Always building 🚀
+</p>
