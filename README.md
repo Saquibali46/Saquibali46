@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Saquib Ali</h1>
+<h1 align="center">Hi , I'm Syed Saquib Ali</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saquibali46&style=for-the-badge&color=blue" />
 </p>
@@ -13,11 +13,13 @@ Building secure, scalable, and maintainable software for real-world applications
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Passionate about Software Engineering and Full Stack Development
-- 🚀 Building real-world applications using Java, Spring Boot, React, and MySQL
-- 🌱 Currently learning System Design, Docker, and Microservices
-- 📍 Bhopal, India
+- 🎓 B.Tech in Computer Science & Engineering (2026) | Barkatullah University
+- 💼 Software Engineer specializing in Java Full Stack Development, Backend Engineering, and AI-powered Applications
+- 🚀 Experienced in building scalable web applications using Java, Spring Boot, React, MySQL, REST APIs, and JWT Authentication
+- 🤖 Exploring Generative AI, LLM Integration, AI Agents, Prompt Engineering, and Intelligent Automation
+- 🏗️ Passionate about clean architecture, secure software design, microservices, and high-performance backend systems
+- 📚 Continuously learning Cloud Technologies, Docker, System Design, DevOps, and modern software engineering practices
+- 📍 Bhopal, Madhya Pradesh, India
 
 ---
 
@@ -93,22 +95,18 @@ Responsive Healthcare Web Application
 - Microservices
 - Cloud Fundamentals
 ---
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saquibali46&theme=github-dark&hide_border=true" />
-</p>
-
----
 ## 📫 Let's Connect
 
-<p align="center">
+<div align="center">
 
-📧 <a href="mailto:saquibali516@gmail.com">saquibali516@gmail.com</a> •
-💼 <a href="https://linkedin.com/in/saquibali46">LinkedIn</a> •
-🐙 <a href="https://github.com/Saquibali46">GitHub</a>
+📧 <a href="mailto:saquibali516@gmail.com">saquibali516@gmail.com</a>
 
-</p>
+💼 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a>
 
-<p align="center">
-Always learning • Always building 🚀
-</p>
+💻 <a href="https://github.com/Saquibali46">GitHub</a>
+
+<br>
+
+<i>Always learning • Always building 🚀</i>
+
+</div>
