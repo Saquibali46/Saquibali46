@@ -3,10 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=Saquibali46&style=for-the-badge&color=blue" />
 </p>
 
-<h3 align="center">Software Engineer • Full Stack Developer • Building Scalable Software Solutions</h3>
+<h3 align="center">Full Stack & AI Software Engineer • Building Intelligent, Scalable Software Solutions</h3>
 
 <p align="center">
-Building secure, scalable, and maintainable software for real-world applications.
+Building production-ready applications that combine robust software engineering with AI-powered intelligence to solve real-world problems.s.
 </p>
 
 ---
