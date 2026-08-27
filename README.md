@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack & AI Software Engineer • Building Intelligent, Scalable Software Solutions</h3>
 
 <p align="center">
-Building production-ready applications that combine robust software engineering with AI-powered intelligence to solve real-world problems.s.
+Building production-ready applications that combine robust software engineering with AI-powered intelligence to solve real-world problems.
 </p>
 
 ---
