@@ -60,6 +60,30 @@ Building production-ready applications that combine robust software engineering 
 
 # 🚀 Featured Projects
 
+### 🛡️ Aegis — AI Incident Intelligence
+
+**AI-Powered Incident Intelligence & Service Reliability Platform**
+
+Aegis is a full-stack observability platform designed to monitor service health, track performance metrics, manage incidents, and provide AI-powered operational insights for faster incident investigation and root-cause analysis.
+
+- 🔍 Service health & availability monitoring
+- 📊 Performance metrics tracking
+- 🚨 Incident detection & management
+- 🧠 AI-powered incident intelligence
+- 🤖 LLM-assisted incident analysis
+- ⚡ Intelligent operational insights
+- 📈 Centralized reliability dashboard
+- 🔗 REST API-based multi-service architecture
+
+**Tech Stack:** Java • Spring Boot • React.js • Python • FastAPI • MySQL • PostgreSQL • REST APIs • Ollama • LLM • Generative AI • Tailwind CSS • Maven • Git
+
+🌐 **[Live Demo](https://tryaegis-ai.vercel.app/)**  
+💻 **[GitHub Repository](https://github.com/Saquibali46/aegis)**
+
+> ⚠️ **Demo Note:** The backend is hosted on a free tier and may take around 30–60 seconds to start on the first request. AI services use a locally hosted Ollama model and may not be available in the public demo.
+
+---
+
 ### 📌 LegalFlow
 Full Stack Legal Practice Management Platform
 
