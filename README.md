@@ -1,136 +1,214 @@
-<h1 align="center">Hi , I'm Syed Saquib Ali</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saquibali46&style=for-the-badge&color=blue" />
-</p>
+<div align="center">
 
-<h3 align="center">Full Stack & AI Software Engineer • Building Intelligent, Scalable Software Solutions</h3>
+# Hi, I'm Syed Saquib Ali 👋
 
-<p align="center">
-Building production-ready applications that combine robust software engineering with AI-powered intelligence to solve real-world problems.
-</p>
+### Software Engineer | Java & Spring Boot | AI/ML | Full-Stack Development
+
+Building scalable backend systems, intelligent applications, and practical software solutions.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge)](https://syed-saquib-ali-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saquibali46/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Saquibali46)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (2026) | Barkatullah University
-- 💼 Software Engineer specializing in Java Full Stack Development, Backend Engineering, and AI-powered Applications
-- 🚀 Experienced in building scalable web applications using Java, Spring Boot, React, MySQL, REST APIs, and JWT Authentication
-- 🤖 Exploring Generative AI, LLM Integration, AI Agents, Prompt Engineering, and Intelligent Automation
-- 🏗️ Passionate about clean architecture, secure software design, microservices, and high-performance backend systems
-- 📚 Continuously learning Cloud Technologies, Docker, System Design, DevOps, and modern software engineering practices
-- 📍 Bhopal, Madhya Pradesh, India
+I'm a Computer Science & Engineering graduate from
+**Barkatullah University Institute of Technology, Bhopal (2026)**.
+
+I'm passionate about backend engineering, artificial intelligence,
+and building applications that solve real-world problems.
+
+My primary focus is developing maintainable backend systems
+using Java, Spring Boot, REST APIs, and relational databases.
+
+I also enjoy working with React, Python, machine learning,
+and generative AI to develop end-to-end applications.
+
+- 💻 Focused on Java, Spring Boot, and backend development
+- 🤖 Interested in AI/ML, LLMs, and intelligent applications
+- 🏗️ Experienced with REST APIs, databases, and full-stack projects
+- 🌱 Currently learning system design, Docker, and microservices
+- 🤝 Interested in open-source collaboration and contributions
+- 📍 Based in Bengaluru, India
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### Backend Development
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
 
-### Database
+### Frontend Development
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Tools & Technologies
+### Databases
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![REST_API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-# 🚀 Featured Projects
+### AI & Machine Learning
 
-### 🛡️ Aegis — AI Incident Intelligence
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
 
-**AI-Powered Incident Intelligence & Service Reliability Platform**
+### Developer Tools
 
-Aegis is a full-stack observability platform designed to monitor service health, track performance metrics, manage incidents, and provide AI-powered operational insights for faster incident investigation and root-cause analysis.
-
-- 🔍 Service health & availability monitoring
-- 📊 Performance metrics tracking
-- 🚨 Incident detection & management
-- 🧠 AI-powered incident intelligence
-- 🤖 LLM-assisted incident analysis
-- ⚡ Intelligent operational insights
-- 📈 Centralized reliability dashboard
-- 🔗 REST API-based multi-service architecture
-
-**Tech Stack:** Java • Spring Boot • React.js • Python • FastAPI • MySQL • PostgreSQL • REST APIs • Ollama • LLM • Generative AI • Tailwind CSS • Maven • Git
-
-🌐 **[Live Demo](https://tryaegis-ai.vercel.app/)**  
-💻 **[GitHub Repository](https://github.com/Saquibali46/aegis)**
-
-> ⚠️ **Demo Note:** The backend is hosted on a free tier and may take around 30–60 seconds to start on the first request. AI services use a locally hosted Ollama model and may not be available in the public demo.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
 
-### 📌 LegalFlow
-Full Stack Legal Practice Management Platform
+## 🚀 Featured Projects
 
-- Spring Boot
+### 🛡️ AEGIS — AI-Powered Incident Intelligence Platform
+
+**AI-powered incident detection and service reliability platform.**
+
+AEGIS is a full-stack application designed to monitor services,
+analyze performance metrics, detect anomalies, and support
+incident investigation through AI-assisted root-cause analysis.
+
+**Key Features**
+- Service monitoring and health tracking
+- Performance metrics visualization
+- Machine learning-based anomaly detection
+- Incident creation and management
+- AI-assisted root-cause analysis
+- React-based monitoring dashboard
+
+**Tech Stack:**
+Java, Spring Boot, React, Python, FastAPI, PostgreSQL,
+Scikit-learn, REST APIs, Ollama.
+
+[View Repository](https://github.com/Saquibali46/aegis)
+
+---
+
+### ⚖️ LegalFlow — Legal Practice Management Platform
+
+A full-stack application designed to support legal practice
+management through structured backend services and a
+responsive frontend.
+
+**Key Technologies**
+- Java and Spring Boot
 - React
-- JWT Authentication
-- Role Based Access
 - MySQL
+- JWT Authentication
+- Role-Based Access Control
+- REST APIs
 
-> Private Repository
-
----
-
-### 📌 Smart Expense Tracker REST API
-
-RESTful backend application featuring authentication, validation,
-CRUD operations, and clean architecture.
-
-Tech Stack:
-Java 21 • Spring Boot • MySQL • Maven • JUnit 5
+[View Repository](https://github.com/Saquibali46/LegalFlow)
 
 ---
 
-### 📌 Medical Appointment Platform
+### 🧠 RAGBench-X — Retrieval-Augmented Generation Research
 
-Responsive Healthcare Web Application
+A research-oriented project focused on evaluating
+retrieval-augmented generation pipelines.
+
+The project explores retrieval quality and
+RAG evaluation workflows.
+
+**Tech Stack:** Python
+
+[View Repository](https://github.com/Saquibali46/Ragbench-x)
 
 ---
-## 📚 Currently Learning
 
-- System Design
-- Docker
-- Microservices
-- Cloud Fundamentals
+### 💰 Smart Expense Tracker REST API
+
+A backend application built using Java and Spring Boot.
+
+**Key Features**
+- RESTful API development
+- CRUD operations
+- Request validation
+- Authentication
+- Structured backend architecture
+
+**Tech Stack:**
+Java, Spring Boot, Maven, JUnit 5.
+
+[View Repository](https://github.com/Saquibali46/smart-expense-tracker)
+
 ---
-## 📫 Let's Connect
+
+### 🌐 Developer Portfolio
+
+My personal portfolio showcasing software development
+projects, technical skills, and professional experience.
+
+**Tech Stack:** React, JavaScript, CSS.
+
+[View Repository](https://github.com/Saquibali46/Portfolio)
+
+[Live Portfolio](https://syed-saquib-ali-portfolio.vercel.app/)
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms using Java
+- System Design Fundamentals
+- Docker and Containerization
+- Microservices Architecture
+- Open-Source Development Workflows
+
+---
+
+## 🤝 Open Source & Collaboration
+
+I'm interested in learning from the open-source community
+and contributing to projects involving:
+
+- Java and Spring Boot
+- Backend APIs
+- Python
+- AI/ML applications
+- Developer tools
+
+I'm currently strengthening my understanding of Git workflows,
+pull requests, code reviews, and collaborative development.
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Syed Saquib Ali](https://www.linkedin.com/in/saquibali46/)
+- **GitHub:** [Saquibali46](https://github.com/Saquibali46)
+- **Portfolio:** [View Website](https://syed-saquib-ali-portfolio.vercel.app/))
+
+---
 
 <div align="center">
 
-📧 <a href="mailto:saquibali516@gmail.com">saquibali516@gmail.com</a>
-
-💼 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a>
-
-💻 <a href="https://github.com/Saquibali46">GitHub</a>
-
-<br>
-
-<i>Always learning • Always building 🚀</i>
+### Always Learning • Always Building 🚀
 
 </div>
